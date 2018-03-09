@@ -1,0 +1,8 @@
+calling fun1 for abcdefghijkl
+Total time = 123
+calling fun2 for abcdefghijkl
+Total time = 167
+calling fun3 for abcdefghijkl
+Total time = 864
+-1
+Total time = 865

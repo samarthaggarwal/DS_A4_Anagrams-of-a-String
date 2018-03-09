@@ -1,0 +1,311 @@
+calling fun1 for ababa10thalone
+Total time = 128
+calling fun2 for ababa10thalone
+Total time = 218
+calling fun3 for ababa10thalone
+Total time = 5188
+10th aba abalone
+10th ababa alone
+10th ababa leona
+10th abalone aba
+10th alone ababa
+10th leona ababa
+aba 10th abalone
+aba abalone 10th
+ababa 10th alone
+ababa 10th leona
+ababa alone 10th
+ababa leona 10th
+abalone 10th aba
+abalone aba 10th
+alone 10th ababa
+alone ababa 10th
+leona 10th ababa
+leona ababa 10th
+-1
+calling fun1 for markpennnew
+Total time = 5191
+calling fun2 for markpennnew
+Total time = 5195
+calling fun3 for markpennnew
+Total time = 5345
+amen nnw perk
+amen perk nnw
+anne knew rpm
+anne rpm knew
+arm knew penn
+arm penn knew
+earn kemp nnw
+earn nnw kemp
+keen nnw pram
+keen nnw ramp
+keen pram nnw
+keen ramp nnw
+kemp earn nnw
+kemp near nnw
+kemp nne warn
+kemp nnw earn
+kemp nnw near
+kemp nnw rena
+kemp rena nnw
+kemp warn nne
+ken mawr penn
+ken penn mawr
+ken penn warm
+ken warm penn
+kern mann pew
+kern maw penn
+kern men pawn
+kern pawn men
+kern penn maw
+kern pew mann
+knee nnw pram
+knee nnw ramp
+knee pram nnw
+knee ramp nnw
+knew anne rpm
+knew arm penn
+knew mann per
+knew mann rep
+knew mar penn
+knew nne pram
+knew nne ramp
+knew penn arm
+knew penn mar
+knew penn ram
+knew per mann
+knew pram nne
+knew ram penn
+knew ramp nne
+knew rep mann
+knew rpm anne
+mane nnw perk
+mane perk nnw
+mann kern pew
+mann knew per
+mann knew rep
+mann new perk
+mann per knew
+mann perk new
+mann pew kern
+mann rep knew
+mar knew penn
+mar penn knew
+mark new penn
+mark penn new
+maw kern penn
+maw penn kern
+mawr ken penn
+mawr penn ken
+mean nnw perk
+mean perk nnw
+men kern pawn
+men new prank
+men nnw parke
+men parke nnw
+men pawn kern
+men prank new
+mew nne prank
+mew penn rank
+mew prank nne
+mew rank penn
+name nnw perk
+name perk nnw
+near kemp nnw
+near nnw kemp
+new mann perk
+new mark penn
+new men prank
+new penn mark
+new perk mann
+new prank men
+nne kemp warn
+nne knew pram
+nne knew ramp
+nne mew prank
+nne pram knew
+nne prank mew
+nne ramp knew
+nne rpm waken
+nne waken rpm
+nne warn kemp
+nnw amen perk
+nnw earn kemp
+nnw keen pram
+nnw keen ramp
+nnw kemp earn
+nnw kemp near
+nnw kemp rena
+nnw knee pram
+nnw knee ramp
+nnw mane perk
+nnw mean perk
+nnw men parke
+nnw name perk
+nnw near kemp
+nnw parke men
+nnw perk amen
+nnw perk mane
+nnw perk mean
+nnw perk name
+nnw pram keen
+nnw pram knee
+nnw ramp keen
+nnw ramp knee
+nnw rena kemp
+parke men nnw
+parke nnw men
+pawn kern men
+pawn men kern
+penn arm knew
+penn ken mawr
+penn ken warm
+penn kern maw
+penn knew arm
+penn knew mar
+penn knew ram
+penn mar knew
+penn mark new
+penn maw kern
+penn mawr ken
+penn mew rank
+penn new mark
+penn ram knew
+penn rank mew
+penn warm ken
+per knew mann
+per mann knew
+perk amen nnw
+perk mane nnw
+perk mann new
+perk mean nnw
+perk name nnw
+perk new mann
+perk nnw amen
+perk nnw mane
+perk nnw mean
+perk nnw name
+pew kern mann
+pew mann kern
+pram keen nnw
+pram knee nnw
+pram knew nne
+pram nne knew
+pram nnw keen
+pram nnw knee
+prank men new
+prank mew nne
+prank new men
+prank nne mew
+ram knew penn
+ram penn knew
+ramp keen nnw
+ramp knee nnw
+ramp knew nne
+ramp nne knew
+ramp nnw keen
+ramp nnw knee
+rank mew penn
+rank penn mew
+rena kemp nnw
+rena nnw kemp
+rep knew mann
+rep mann knew
+rpm anne knew
+rpm knew anne
+rpm nne waken
+rpm waken nne
+waken nne rpm
+waken rpm nne
+warm ken penn
+warm penn ken
+warn kemp nne
+warn nne kemp
+-1
+calling fun1 for shreshth
+Total time = 5369
+calling fun2 for shreshth
+Total time = 5370
+Total time = 5370
+-1
+calling fun1 for shikhar
+Total time = 5370
+calling fun2 for shikhar
+Total time = 5371
+Total time = 5371
+hark his
+hash irk
+his hark
+irk hash
+irk shah
+shah irk
+-1
+calling fun1 for aeprs
+Total time = 5371
+Total time = 5371
+Total time = 5371
+parse
+spare
+spear
+-1
+calling fun1 for aelrst
+Total time = 5371
+calling fun2 for aelrst
+Total time = 5372
+Total time = 5372
+ret sal
+sal ret
+slater
+-1
+calling fun1 for aelst
+Total time = 5372
+Total time = 5372
+Total time = 5372
+least
+slate
+stale
+steal
+-1
+calling fun1 for aerst
+Total time = 5372
+Total time = 5372
+Total time = 5372
+aster
+stare
+-1
+calling fun1 for firebug
+Total time = 5372
+calling fun2 for firebug
+Total time = 5373
+Total time = 5373
+bug fire
+fbi urge
+fib urge
+fig reub
+fig rube
+fire bug
+firebug
+fur gibe
+gibe fur
+reub fig
+rube fig
+urge fbi
+urge fib
+-1
+calling fun1 for flashlight
+Total time = 5373
+calling fun2 for flashlight
+Total time = 5377
+calling fun3 for flashlight
+Total time = 5412
+fight shall
+flash light
+flashlight
+flight lash
+half slight
+lash flight
+light flash
+shall fight
+slight half
+-1
+Total time = 5412
